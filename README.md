@@ -51,7 +51,7 @@ Para ejecutar esta aplicación en tu máquina local, sigue los siguientes pasos:
 ## 🖼️ Ejemplo de Imágenes Generadas
 A continuación, algunas imágenes generadas por la aplicación:
 
-### 🌸 Flower
+### 🌸 Flor
 ![Flower](img/flower.jpg)
 
 ### 🧑 Humano
@@ -60,7 +60,7 @@ A continuación, algunas imágenes generadas por la aplicación:
 ### 🦒 Jirafa
 ![Jirafa](img/jirafa.jpg)
 
-### 🌊 Lago
+### 🌊 Castillo en un Lago
 ![Lake](img/lake.jpg)
 
 ---
