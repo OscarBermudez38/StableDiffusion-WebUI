@@ -1,5 +1,5 @@
 # 🌟 Generador de Imágenes LegoWorld 🧱
-## Creado por Oscar Bermúdes y Darío Nievas
+## Creado por Oscar Bermúdez y Darío Nievas
 
 ## 📌 Descripción
 Esta aplicación permite generar imágenes con estilo LEGO utilizando la API de Stable Diffusion. A través de una interfaz interactiva creada con **Streamlit**, los usuarios pueden seleccionar una categoría, añadir detalles y generar imágenes basadas en sus descripciones.
